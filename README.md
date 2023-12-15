@@ -6,7 +6,7 @@
    My academic pursuits center on acquiring proficiency in diverse coding languages and leveraging this knowledge to navigate the complexities of Information Technology effectively.
   
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 📫 How to reach me: 
 
 <!---
 Csimmons117/Csimmons117 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
