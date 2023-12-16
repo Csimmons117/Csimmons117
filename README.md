@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning the study of Information Technology, delving into the multifaceted realm of coding across various programming languages.
    My academic pursuits center on acquiring proficiency in diverse coding languages and leveraging this knowledge to navigate the complexities of Information Technology effectively.
   
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: 
 
 <!---
