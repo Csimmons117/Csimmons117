@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Csimmons117
+- 👋 Hi, I’m Cameron Simmons
 - 👀 I’m interested in the intricacies of computer systems, encompassing their functionality, intercommunication protocols, and optimization methodologies.
   My enthusiasm lies in comprehending the nuanced dynamics of computing, fostering a profound understanding of their operational intricacies and exploring avenues for enhancement.
   
