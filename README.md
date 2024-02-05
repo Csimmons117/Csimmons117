@@ -4,8 +4,7 @@
   
 - 🌱 I’m currently learning the study of Information Technology, delving into the multifaceted realm of coding across various programming languages.
    My academic pursuits center on acquiring proficiency in diverse coding languages and leveraging this knowledge to navigate the complexities of Information Technology effectively.
-  
-- 📫 How to reach me: 
+   
 
 <!---
 Csimmons117/Csimmons117 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
