@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Csimmons117
 - 👀 I’m interested in Information Techonology
-- 🌱 I’m currently learning about python programing. My idea is to make a program that can taken in the ip adress and return the network and broadcast IP.
+- 🌱 I’m currently learning about python programing. My idea is to make a program that can taken in the ip address and return the network and broadcast IP.
 - 📫 How to reach me ...(Need to set something up)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
