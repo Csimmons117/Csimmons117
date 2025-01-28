@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Csimmons117
 - 👀 I’m interested in Information Techonology
-- 🌱 I’m currently learning about python programing. My idea is to make a program that can taken in the ip address and return the network and broadcast IP.
+- 🌱 I’m currently learning about python programing. 
 - 📫 How to reach me ...(Need to set something up)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: The first webpage I bulit: (link)[https://csimmons117.github.io/Webpage2.0/#Home]
 
 <!---
 Csimmons117/Csimmons117 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
