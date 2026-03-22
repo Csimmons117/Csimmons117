@@ -1,5 +1,6 @@
 # Hi, I’m Cameron Simmons
 
+
 I’m a Computer Information Technology student at **California State University, Northridge** with a passion for **Python programming** and **web development**. I enjoy exploring new technologies, solving problems, and building projects that make an impact.  
 
 - Currently learning Python and improving my IT skills  
