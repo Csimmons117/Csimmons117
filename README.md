@@ -12,7 +12,7 @@ I’m a Computer Information Technology student at **California State University
 ## Connect with Me
 
 - Website: [Portfolio.com](https://csimmons117.github.io/Cameron-Simmons/)  
-- LinkedIn: [linkedin.com](www.linkedin.com/in/c-simmons-s)   
+- LinkedIn: [linkedin.com](https://www.linkedin.com/in/c-simmons-s/)   
 
 <!---
 Csimmons117/Csimmons117 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
